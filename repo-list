@@ -1,4 +1,4 @@
-screener`
+screener
 gbackfill
 redisct
 node-quote-generator
@@ -8,3 +8,5 @@ gqg
 icici-quote-generator
 entry-empty-emitter
 nasdaq-quote-parser
+pattern-detector-core-js
+screener-parser

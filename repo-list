@@ -1,3 +1,4 @@
+deploy
 entry-empty-emitter
 firebase-config
 gbackfill
@@ -9,6 +10,7 @@ node-quote-generator
 pattern-detector-core-js
 redisct
 screener
+screener-executor
 screener-parser
 simulator
 tlab-util

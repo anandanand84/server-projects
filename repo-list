@@ -2,8 +2,6 @@ deploy
 entry-empty-emitter
 firebase-config
 gbackfill
-gqg
-icici-quote-generator
 nasdaq-quote-parser
 networkb
 node-quote-generator
